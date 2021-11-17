@@ -1,4 +1,4 @@
-# deep_dive: Natural Language Processing Toolkit
+# Natural Language Processing Toolkit
 
 The purpose of this repo is to include a set of tools and examples of Natural Language Processing (NLP) models useful for developers. This repo provides various scenarios that the user might encounter and identifies various models that can be used to analyze each one. The optimal model for each scenario is determined based on the user's needs and criteria. 
 
